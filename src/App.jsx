@@ -1,14 +1,11 @@
-
 import './App.css'
-import HelloWorld from './components/helloWorld'
 import Frase from './components/Frase'
 
 function App() {
 
   return (
     <div className='App'>
-      <h1>Meu Primeiro Componente HelloWorld</h1>
-      <HelloWorld/>
+      <h1>Meu Primeiro Componente </h1>
       <Frase/>
     </div>
   )

@@ -1,8 +1,11 @@
+import Frase2 from './Frase2'
+
 function Frase () {
 
     return (
         <div>
-            <h1>Meu segundo componente!</h1>
+            <p>Meu Primeiro componente!</p>
+            <Frase2/>
         </div>
     )
 }
